@@ -1,5 +1,6 @@
 .card-img-top {
     height: 35%;
+    object-fit: cover;
 }
 
 .fa:hover {
